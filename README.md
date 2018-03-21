@@ -1,2 +1,2 @@
 # grocery-app
-Hi! This is a simple grocery app made using react native.
+Hi! This is a simple grocery app made using react native and firebase database.
